@@ -4,6 +4,8 @@
 
 Re create iOS calculator app
 
+![calcPic](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRV4p5GPIkKuLMHLWzJV9rEO5_8_33Pmx3SJv07DrMXHZcu44p7&usqp=CAU)
+
 
 
 ## Requirements 
@@ -28,7 +30,6 @@ Re create iOS calculator app
 
 
 
-![calcPic](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRV4p5GPIkKuLMHLWzJV9rEO5_8_33Pmx3SJv07DrMXHZcu44p7&usqp=CAU)
 
 
 
