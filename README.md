@@ -28,7 +28,7 @@ Re create iOS calculator app
 
 
 
-![calcPic](https://static1.squarespace.com/static/5aef2fad9d5abb57b704f0e2/5aef58848a922d4d85462d8a/5bda3f8ec2241bcd3afe007a/1541110782465/iPhone-Calculator-01.jpg?format=700w)
+![calcPic](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRV4p5GPIkKuLMHLWzJV9rEO5_8_33Pmx3SJv07DrMXHZcu44p7&usqp=CAU)
 
 
 
