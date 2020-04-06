@@ -4,7 +4,7 @@
 
 Re create iOS calculator app
 
-![calcPic] (https://static1.squarespace.com/static/5aef2fad9d5abb57b704f0e2/5aef58848a922d4d85462d8a/5bda3f8ec2241bcd3afe007a/1541110782465/iPhone-Calculator-01.jpg?format=1500w)
+![calcPic](https://static1.squarespace.com/static/5aef2fad9d5abb57b704f0e2/5aef58848a922d4d85462d8a/5bda3f8ec2241bcd3afe007a/1541110782465/iPhone-Calculator-01.jpg?format=1500w)
 
 ## Requirements 
 - The app must be implemented as a native iOS application. Either Swift or Objective-C are acceptable.
