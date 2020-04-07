@@ -15,6 +15,7 @@ Create your own Repo!
 - Keep the app lmited to a single screen 
 - Buttons to input digits 0-9
 - Addition, Multiplication, Subtraction and Division are required operations. 
+- Use Closures to handle operations
 - Display the current result 
 - A way to clear the current result/operation 
 - Stack multiple operations (ex: 5 + 2 + 7 - 4 = 10)
